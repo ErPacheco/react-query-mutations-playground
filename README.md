@@ -23,7 +23,7 @@ For now this is not a document repository to solve doubts about the library. Thi
 
 # Context of the application
 
-This application was first created in [CodeSandbox](https://codesandbox.io/) for learning purposes about how to use mutations in React Query in different ways.
+This application was first created in [CodeSandbox](https://codesandbox.io/) for learning purposes about how to use mutations in React Query in different ways. You can play with the app directly [here](https://codesandbox.io/s/github/ErPacheco/react-query-mutations-playground)
 
 The application shows a list of users, where we can create, delete or update a users. The users has been obtained from the [DummyJSON API](https://dummyjson.com) (API with fake data for testing and placeholder purposes).
 
